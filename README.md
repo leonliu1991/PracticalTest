@@ -9,3 +9,5 @@ In the tests, the below things are validated:
 
 ### Framework design explanation<br>
 SpecFlow + MS Test 3 layers framework is used: features, step definitions and actions along with common library which encapsulates REST API methods and a json schema checker.   
+
+All tests have been executed locally and they all passed.
