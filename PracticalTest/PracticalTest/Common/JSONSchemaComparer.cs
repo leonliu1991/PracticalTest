@@ -9,8 +9,6 @@ namespace PracticalTest.Common
 {
     class JsonSchemaComparer
     {
-        public string ApiSchemaPath { get; set; }
-
         public void AssertArraySchema(JArray responseJ, string customSchemaPath)
         {
             var schemaFile = new StreamReader(customSchemaPath);
