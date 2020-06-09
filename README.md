@@ -1,5 +1,5 @@
 ### Description:<br>
-The tests include verifying positive flows of GET, POST, PUT, DELETE to-do endpoints, and also a negative flow test cases trying to validate invalid id scenario.
+The tests include verifying positive flows of GET, POST, PUT, DELETE to-do endpoints, and also a negative flow test case trying to validate an invalid id scenario.
 <br>
 ### Assertion:<br>
 In the tests, the below things are validated:
